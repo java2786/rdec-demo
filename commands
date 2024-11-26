@@ -1,0 +1,7 @@
+git remote add origin url
+
+git status
+git add .
+git commit -m "project created"
+git log
+git push -u origin master
